@@ -1,5 +1,5 @@
-#Dont know if I should delete all that but yeah just wanted to check in. Little late to the party. 
-#Hi, I'm Adrian Perez.
+# Dont know if I should delete all that but yeah just wanted to check in. Little late to the party. 
+# Hi, I'm Adrian Perez.
 
 
 # :wave: The Basics of Git and GitHub 
